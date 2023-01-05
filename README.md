@@ -21,9 +21,6 @@ Aka : [Software Dev. / Web Dev. / SyS Admin / Gamer]
 ![Proxmox](https://img.shields.io/badge/Proxmox-05122A?style=flat&logo=proxmox&logoColor=blue)&nbsp;
 ![LXC](https://img.shields.io/badge/LXC-05122A?style=flat&logo=lxc&logoColor=blue)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-![Galathil stats](https://github-readme-stats.vercel.app/api?username=galathil&theme=github_dark)
-
 ### 🎮 &nbsp;Games
 Minecraft - World of Warcraft - Valheim - Skyrim - Planet Zoo
 
