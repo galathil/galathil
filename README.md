@@ -22,7 +22,7 @@ Aka : [Software Dev. / Web Dev. / SyS Admin / White Hat / Gamer]
 ![LXC](https://img.shields.io/badge/LXC-05122A?style=flat&logo=lxc&logoColor=blue)&nbsp;
 
 ### 🎮 &nbsp;Games
-Minecraft - World of Warcraft - Valheim - Skyrim - Planet Zoo
+Minecraft - World of Warcraft - Valheim - Skyrim - Planet Zoo - Factorio
 
 <!--
 **galathil/galathil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
