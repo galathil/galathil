@@ -1,6 +1,6 @@
 ## 👋>Hello there, I'm Galathil [🇫🇷]
 
-Aka : [Software Dev. / Web Dev. / SyS Admin / Gamer]
+Aka : [Software Dev. / Web Dev. / SyS Admin / White Hat / Gamer]
 
 ### About me
 - 🌱 I’m currently learning : C# and Unity
