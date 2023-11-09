@@ -1,11 +1,13 @@
-## 💙>Hello there, I'm Galathil [🇫🇷]
-
-Aka : [Software Dev. / Web Dev. / SyS Admin / White Hat / Gamer]
+# 💙>Hello there, I'm Galathil [🇫🇷]
+<picture>
+  <img alt="Github profile banner" src="github-profile-banner.jpg">
+</picture>
 
 ### About me 👋
-- 🌱 I’m currently learning : Minecraft modding (Forge & Fabric APIs)
+- 💬 Ask me about development (Web, Softwares, Games), SyS Admin, Grey hat stuff.
+- 🌱 I’m currently learning Minecraft modding
 - 💜 They trust me : [Lvcyd](https://www.twitch.tv/lvcyd) - [Roi_Louis](https://www.youtube.com/@RoiLouisMC) - [Teuc__](https://www.twitch.tv/teuc__)
-- 📫 How to reach me : galathil.feanor|at|gmail.com for a first contact (can use Discord or private email with GPG support if needed)
+- 📫 How to reach me : galathil.feanor|at|gmail.com
 
 ### 🛠 &nbsp;Stack
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=blue)&nbsp;
@@ -23,18 +25,19 @@ Aka : [Software Dev. / Web Dev. / SyS Admin / White Hat / Gamer]
 ![LXC](https://img.shields.io/badge/LXC-05122A?style=flat&logo=lxc&logoColor=blue)&nbsp;
 
 ### Old projects
-- MoreVanillaBuilds : Valhein mods that makes all gameobjects buildables in the game (with custom recipes) for AlpZz
-- Gizmo : Fix Gizmo mod for recent Valheim versions. Adding some tweaks for AlpZz and Teuc__
-- YouHead : WoWhead parser prototype to datamining Shadowland extensions and update MySQL database for Stitchounet
+- MoreVanillaBuilds : Valheim mod that makes all game prefabs buildables in the game (with configurable recipes)
+- Gizmo : Fix a mod called Gizmo for recent Valheim (mistlands update). Add some options for AlpZz and Teuc__
+- YouHead : WoWhead parser prototype for datamining (Shadowland) for Stitchounet
 - Galapack : Minecraft ressource park inspired by Onigris and up to date for Roi_Louis
-- TrinityCore/MaNGOS : Many years in WoW servers development, upgrades, maintenance and player support
-- Ancestra : Collaboration on Dofus 1.29 Emulator (client server protocol, datamining, MySQL improvments)
-- XNova/Wootook : Open source OGame like
-- Java : Discord bots, desktop app (swing), server application and scripts, 2 video games with slick2D library
-- Many hacking opex which i can't explained here for legals reasons but always to try buidling a better world for humanity, freedom and democraty.
+- TrinityCore/MaNGOS : Many years in WoW servers development, some reverse engineering, maintain servers and share knowledge with many communities, wow-emu.fr administrator.
+- Ancestra : Dev on Dofus 1.29 Emulator (reverse engineering, packets handle, datamining, database structure improvments)
+- XNova/Wootook : Open source OGame like, writing in PHP (Dev, maintain, debug)
+- Java : Discord bots, desktop app (swing), server application and scripts, video games (RPG, Plateformer) with slick2D library
+- Grey hat stuff that I mustn't explain here. Contact me for details.
+- ⚡ Fun fact: What is the starting point of all this sh$t? Trying to configure a fu*$%ng mIRC bot called Shyrka... <3
 
 ### 🎮 &nbsp;Games (most played)
-Minecraft - World of Warcraft - Valheim - Skyrim - Planet Zoo - Factorio - ARK SE
+Minecraft - World of Warcraft - Valheim - Skyrim - Planet Zoo - Factorio - ARK SE - C&C (Red alert series, generals series)
 
 <!--
 **galathil/galathil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
