@@ -37,7 +37,7 @@
 - ⚡ Fun fact: What is the starting point of all this sh$t? Trying to configure a fu*$%ng mIRC bot called Shyrka... <3
 
 ### 🎮 &nbsp;Games (most played)
-Minecraft - World of Warcraft - Valheim - Skyrim - Planet Zoo - Factorio - ARK SE - C&C (Red alert series, generals series)
+Minecraft - World of Warcraft - Valheim - Skyrim - Planet Zoo - Factorio - ARK SE - C&C (Red alert series, generals series) - The Talos Principle
 
 <!--
 **galathil/galathil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
