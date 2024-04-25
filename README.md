@@ -1,5 +1,7 @@
 # 💙>Hello there, I'm Galathil [🇫🇷]
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-profile-banner.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="github-profile-banner.jpg">
   <img alt="Github profile banner" src="github-profile-banner.jpg">
 </picture>
 
@@ -33,11 +35,10 @@
 - Ancestra : Dev on Dofus 1.29 Emulator (reverse engineering, packets handle, datamining, database structure improvments)
 - XNova/Wootook : Open source OGame like, writing in PHP (Dev, maintain, debug)
 - Java : Discord bots, desktop app (swing), server application and scripts, video games (RPG, Plateformer) with slick2D library
-- Grey hat stuff that I mustn't explain here. Contact me for details.
-- ⚡ Fun fact: What is the starting point of all this sh$t? Trying to configure a fu*$%ng mIRC bot called Shyrka... <3
+- Hacking stuff (OSINT, RE, pentesting, cracking, awareness and prevention, Forensic)
 
 ### 🎮 &nbsp;Games (most played)
-Minecraft - World of Warcraft - Valheim - Skyrim - Planet Zoo - Factorio - ARK SE - C&C (Red alert series, generals series) - The Talos Principle - Assassins Creed Origins
+Minecraft - World of Warcraft - Valheim - Skyrim - Planet Zoo - Factorio - ARK SE - C&C (Red alert 2, Generals) - The Talos Principle - Assassins Creed Origins
 
 <!--
 **galathil/galathil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
