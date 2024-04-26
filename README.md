@@ -6,9 +6,10 @@
 </picture>
 
 ### About me 👋
-- 💬 Ask me about development (Web, Softwares, Games), SyS Admin, Grey hat stuff.
+- 💬 Ask me about development (Web, Softwares, Games), SyS Admin, hacking stuff
+- 🔭 I’m currently working on MMORPG using Minecraft as client side
 - 🌱 I’m currently learning Minecraft modding
-- 💜 They trust me : [Lvcyd](https://www.twitch.tv/lvcyd) - [Roi_Louis](https://www.youtube.com/@RoiLouisMC) - [Teuc__](https://www.twitch.tv/teuc__)
+- 💜 They trust me : [Lvcyd](https://www.twitch.tv/lvcyd) - [Roi_Louis](https://www.youtube.com/@RoiLouisMC) - [AlpZz_](https://www.twitch.tv/alpzz_) - [Teuc__](https://www.twitch.tv/teuc__)
 - 📫 How to reach me : galathil.feanor|at|gmail.com
 
 ### 🛠 &nbsp;Stack
@@ -27,10 +28,10 @@
 ![LXC](https://img.shields.io/badge/LXC-05122A?style=flat&logo=lxc&logoColor=blue)&nbsp;
 
 ### Old projects
-- MoreVanillaBuilds : Valheim mod that makes all game prefabs buildables in the game (with configurable recipes)
-- Gizmo : Fix a mod called Gizmo for recent Valheim (mistlands update). Add some options for AlpZz and Teuc__
-- YouHead : WoWhead parser prototype for datamining (Shadowland) for Stitchounet
-- Galapack : Minecraft ressource park inspired by Onigris and up to date for Roi_Louis
+- MoreVanillaBuilds : Valheim mod for [AlpZz_](https://www.twitch.tv/alpzz_) that makes all game prefabs buildables in the game (with configurable recipes)
+- Gizmo : Fix a mod called Gizmo for recent Valheim (mistlands update). Add some options for [AlpZz_](https://www.twitch.tv/alpzz_) and [Teuc__](https://www.twitch.tv/teuc__)
+- [YoupHead](https://github.com/galathil/YoupHead) : WoWhead parser prototype for datamining (Shadowland) for [Stitchounet](https://github.com/stitch11)
+- Galapack : Minecraft ressource park inspired by Onigris and up to date for [Roi_Louis](https://www.twitch.tv/roi_louis).
 - TrinityCore/MaNGOS : Many years in WoW servers development, some reverse engineering, maintain servers and share knowledge with many communities, wow-emu.fr administrator.
 - Ancestra : Dev on Dofus 1.29 Emulator (reverse engineering, packets handle, datamining, database structure improvments)
 - XNova/Wootook : Open source OGame like, writing in PHP (Dev, maintain, debug)
