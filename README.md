@@ -1,10 +1,11 @@
 # 💙>Hello there, I'm Galathil [🇫🇷]
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-profile-banner.jpg">
   <source media="(prefers-color-scheme: light)" srcset="github-profile-banner.jpg">
   <img alt="Github profile banner" src="github-profile-banner.jpg">
 </picture>
-
+-->
 ### About me 👋
 - 💬 Ask me about development (Web, Softwares, Games), SyS Admin, hacking stuff
 - 🔭 I’m currently working on MMORPG using Minecraft as client side
