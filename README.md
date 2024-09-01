@@ -7,10 +7,10 @@
 </picture>
 -->
 ### About me 👋
-- 💬 Ask me about development (Web, Softwares, Games), SyS Admin, hacking stuff
-- 🔭 I’m currently working on MMORPG using Minecraft as client side
-- 🌱 I’m currently learning Minecraft modding
-- 💜 They trust me : [Lvcyd](https://www.twitch.tv/lvcyd) - [Roi_Louis](https://www.youtube.com/@RoiLouisMC) - [AlpZz_](https://www.twitch.tv/alpzz_) - [Teuc__](https://www.twitch.tv/teuc__)
+- 💬 Ask me about development (Web, Soft, Games, scripts), SyS Admin, hacking stuff
+- 🔭 I’m currently working on me (out of order)
+- 🌱 I’m currently learning -
+- 💜 They trust me : [Lvcyd](https://www.twitch.tv/lvcyd) - [Roi_Louis](https://www.youtube.com/@RoiLouisMC) - [AlpZz_](https://www.twitch.tv/alpzz_) - [Teuc__](https://www.twitch.tv/teuc__) - [Enshrouded Official Wiki](https://enshrouded.wiki.gg/wiki/Main_Page)
 - 📫 How to reach me : galathil.feanor|at|gmail.com
 
 ### 🛠 &nbsp;Stack
@@ -29,6 +29,7 @@
 ![LXC](https://img.shields.io/badge/LXC-05122A?style=flat&logo=lxc&logoColor=blue)&nbsp;
 
 ### Old projects
+- Minecraft Modding with Forge API
 - MoreVanillaBuilds : Valheim mod for [AlpZz_](https://www.twitch.tv/alpzz_) that makes all game prefabs buildables in the game (with configurable recipes)
 - Gizmo : Fix a mod called Gizmo for recent Valheim (mistlands update). Add some options for [AlpZz_](https://www.twitch.tv/alpzz_) and [Teuc__](https://www.twitch.tv/teuc__)
 - [YoupHead](https://github.com/galathil/YoupHead) : WoWhead parser prototype for datamining (Shadowland) for [Stitchounet](https://github.com/stitch11)
@@ -39,8 +40,8 @@
 - Java : Discord bots, desktop app (swing), server application and scripts, video games (RPG, Plateformer) with slick2D library
 - Hacking stuff (OSINT, RE, pentesting, cracking, awareness and prevention, Forensic)
 
-### 🎮 &nbsp;Games (most played)
-Minecraft - World of Warcraft - Valheim - Skyrim - Planet Zoo - Factorio - ARK SE - C&C (Red alert 2, Generals) - The Talos Principle - Assassins Creed Origins
+### 🎮 &nbsp;Fav. Games
+Minecraft - World of Warcraft (WOTLK) - Enshrouded - Skyrim - Planet Zoo - Factorio - C&C (Red alert 2, Generals) - The Talos Principle - Assassins Creed Origins - Shapez
 
 <!--
 **galathil/galathil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
