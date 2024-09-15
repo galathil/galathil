@@ -8,10 +8,10 @@
 -->
 ### About me 👋
 - 💬 Ask me about development (Web, Soft, Games, scripts), SyS Admin, hacking stuff
-- 🔭 I’m currently working on me (out of order)
+- 🔭 I’m currently working on -
 - 🌱 I’m currently learning -
 - 💜 They trust me : [Lvcyd](https://www.twitch.tv/lvcyd) - [Roi_Louis](https://www.youtube.com/@RoiLouisMC) - [AlpZz_](https://www.twitch.tv/alpzz_) - [Teuc__](https://www.twitch.tv/teuc__) - [Enshrouded Official Wiki](https://enshrouded.wiki.gg/wiki/Main_Page)
-- 📫 How to reach me : galathil.feanor|at|gmail.com
+- 📫 How to reach me : contact|at|galathil.fr (GPG : [here](https://keys.openpgp.org/vks/v1/by-fingerprint/476B69451951435798E693227B2F16BBC0C69655) ([mirror](476B69451951435798E693227B2F16BBC0C69655.asc)))
 
 ### 🛠 &nbsp;Stack
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=blue)&nbsp;
