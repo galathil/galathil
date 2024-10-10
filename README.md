@@ -1,17 +1,6 @@
-# 💙>Hello there, I'm Galathil [🇫🇷]
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-profile-banner.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="github-profile-banner.jpg">
-  <img alt="Github profile banner" src="github-profile-banner.jpg">
-</picture>
--->
 ### About me 👋
-- 💬 Ask me about development (Web, Soft, Games, scripts), SyS Admin, hacking stuff
-- 🔭 I’m currently working on -
-- 🌱 I’m currently learning -
-- 💜 They trust me : [Lvcyd](https://www.twitch.tv/lvcyd) - [Roi_Louis](https://www.youtube.com/@RoiLouisMC) - [AlpZz_](https://www.twitch.tv/alpzz_) - [Teuc__](https://www.twitch.tv/teuc__) - [Enshrouded Official Wiki](https://enshrouded.wiki.gg/wiki/Main_Page)
-- 📫 How to reach me : contact|at|galathil.fr (GPG : [here](https://keys.openpgp.org/vks/v1/by-fingerprint/476B69451951435798E693227B2F16BBC0C69655) ([mirror](476B69451951435798E693227B2F16BBC0C69655.asc)))
+- 💜 They trusted me : [Lvcyd](https://www.twitch.tv/lvcyd) - [Roi_Louis](https://www.youtube.com/@RoiLouisMC) - [AlpZz_](https://www.twitch.tv/alpzz_) - [Teuc__](https://www.twitch.tv/teuc__) - [Enshrouded Official Wiki](https://enshrouded.wiki.gg/wiki/Main_Page)
+- 📫 contact|at|galathil.fr (GPG : [here](https://keys.openpgp.org/vks/v1/by-fingerprint/476B69451951435798E693227B2F16BBC0C69655) ([mirror](476B69451951435798E693227B2F16BBC0C69655.asc)))
 
 ### 🛠 &nbsp;Stack
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=blue)&nbsp;
@@ -39,21 +28,3 @@
 - XNova/Wootook : Open source OGame like, writing in PHP (Dev, maintain, debug)
 - Java : Discord bots, desktop app (swing), server application and scripts, video games (RPG, Plateformer) with slick2D library
 - Hacking stuff (OSINT, RE, pentesting, cracking, awareness and prevention, Forensic)
-
-### 🎮 &nbsp;Fav. Games
-Minecraft - World of Warcraft (WOTLK) - Enshrouded - Skyrim - Planet Zoo - Factorio - C&C (Red alert 2, Generals) - The Talos Principle - Assassins Creed Origins - Shapez
-
-<!--
-**galathil/galathil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
